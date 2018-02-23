@@ -1,0 +1,23 @@
+.music {
+    border: 5px solid red;
+    color: white;
+
+    background: black
+}
+
+img {
+    /*height:700px*/
+}
+
+/* Style your grid here */
+
+.row {
+    display: grid;
+    grid-gap: 8px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+h1 {
+    color:red;
+    text-shadow: 3px 2px black;
+}
